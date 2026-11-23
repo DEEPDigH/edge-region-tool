@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+lib/
+.venv/
+history/
+backups/
+Codex-Backups/
+*.log
+.env
+.env.*
+Local State
+Variations*SeedV2
